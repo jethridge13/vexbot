@@ -1,0 +1,3 @@
+[submodule "noop-lib"]
+	path = noop-lib
+	url = git@github.com:jethridge13/noop-lib.git
